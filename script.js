@@ -56,7 +56,7 @@ filtersEl.addEventListener('click', e => {
     projectEl5.style.transform = 'scale(0)';
     projectEl6.style.opacity = '0';
     projectEl6.style.transform = 'scale(0)';
-
+  /* KEYFRAMES */
     projectEl3.style.transform = 'translateX(-650px)';
     projectEl3.style.opacity = '1';
     projectEl4.style.transform = 'translate(325px, -502px)';
